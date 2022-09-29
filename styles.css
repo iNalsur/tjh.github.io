@@ -156,17 +156,12 @@ header .mobile {
 }
 
 @media only screen and (max-width: 430px) {
-    .content .logo {
+    #badge {
         display: none;
     }
 
     li {
-        padding: 0 1rem;
-    }
-
-    .content {
-        align-items: center;
-        justify-content: center;
+        padding-left: 0.5rem;
     }
 }
 
