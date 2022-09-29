@@ -513,11 +513,19 @@ header .mobile {
 .copyright {
     flex: 1;
     color: #ff6600;
-    font-size: 0.6rem;
 }
 
 .design {
-    font-size: 0.5rem;
+    font-size: 0.65rem;
     color: #ff6600;
     font-style: italic;
+}
+
+@media only screen and (max-width: 700px) {
+    .copyright {
+        font-size: 0.6rem;
+    }  
+    .design {
+        font-size: 0.5rem;
+    }
 }
