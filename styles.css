@@ -138,7 +138,10 @@ header .mobile {
     li .button {
         font-size: 0.8rem;
     }
-    
+   
+    header .content {
+        padding: 1.3rem 0.7rem;
+    }
 }
 
 @media only screen and (max-width: 530px) {
@@ -510,10 +513,11 @@ header .mobile {
 .copyright {
     flex: 1;
     color: #ff6600;
+    font-size: 0.6rem;
 }
 
 .design {
-    font-size: 0.75rem;
+    font-size: 0.5rem;
     color: #ff6600;
     font-style: italic;
 }
