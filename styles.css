@@ -358,6 +358,12 @@ header .mobile {
     }
 }
 
+@media only screen and (max-width: 430px) {
+    .jobType {
+        height: 400px;
+    }
+}
+
 /* Contact Section Style */
 
 #contactSection {
@@ -487,7 +493,7 @@ header .mobile {
 
 @media only screen and (max-width: 550px) {
     #contactSection .center {
-        margin: 100px 10px;
+        margin: 70px 10px;
     }
 }
 
