@@ -55,7 +55,7 @@ header .logo {
 
 header .material-symbols-outlined {
     font-size: 4rem;
-    border: 6px solid #C75000;
+    border: 6px solid #FF6600;
     border-radius: 50%;
     padding: 4px;
 }
@@ -67,16 +67,16 @@ ul .material-symbols-outlined {
 }
 
 header p {
-    color: #C75000;
+    color: #FF6600;
 }
 
 header a {
     text-decoration: none;
-    color: #C75000;
+    color: #FF6600;
 }
 
 header a:hover {
-    border-bottom: 2px solid #C75000;
+    border-bottom: 2px solid #FF6600;
     padding-bottom: 10px;
     font-weight: bold;
 }
@@ -105,8 +105,8 @@ header .mobile {
     }
 
     li .button {
-        border: 1px solid #C75000;
-        background-color: #C75000;
+        border: 1px solid #FF6600;
+        background-color: #FF6600;
         border-radius: 3px;
         letter-spacing: .07em;
         text-align: center;
@@ -127,7 +127,7 @@ header .mobile {
 @media only screen and (max-width: 600px) {
     header .material-symbols-outlined {
         font-size: 2.5rem;
-        border: 4px solid #C75000;
+        border: 4px solid #FF6600;
     }
 
     li .material-symbols-outlined {
@@ -224,15 +224,15 @@ header .mobile {
     display: inline-flex;
     font-weight: 700;
     color: white;
-    background-color: #C75000;
+    background-color: #FF6600;
     border-radius: 3px;
     letter-spacing: .07em;
     margin-top: 30px;
 }
 
 #bookTimeBox .button:hover {
-    border: 1px solid #C75000;
-    color: #C75000;
+    border: 1px solid #FF6600;
+    color: #FF6600;
     background-color: white;
 }
 
@@ -367,7 +367,7 @@ header .mobile {
 }
 
 #description {
-    border-bottom: 2px solid #C75000;
+    border-bottom: 2px solid #FF6600;
     max-width: 1420px;
     margin: auto;
 }
@@ -380,7 +380,7 @@ header .mobile {
 
     #description  {
         text-align: center;
-        color: #C75000;
+        color: #FF6600;
     }
 }
 
@@ -398,7 +398,7 @@ header .mobile {
 }
 
 #contactSection .description {
-    border-bottom: 2px solid #C75000;
+    border-bottom: 2px solid #FF6600;
 }
 
 #contactSection .center {
@@ -425,27 +425,27 @@ header .mobile {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    border: 3px solid #B34800;
+    border: 3px solid #FF6600;
 }
 
 #contactSection .name {
     font-size: 2rem;
-    border-bottom: 2px solid #B34800;
+    border-bottom: 2px solid #FF6600;
 }
 
 #contactSection .phone {
     font-weight: 300;
-    color: #B34800;
+    color: #FF6600;
 }
 
 #contactSection .mail {
     font-weight: 300;
-    color: #B34800;
+    color: #FF6600;
 }
 
 #contactSection .address {
     font-weight: 300;
-    color: #B34800;
+    color: #FF6600;
 }
 
 #contactSection .material-symbols-outlined {
@@ -454,7 +454,7 @@ header .mobile {
 }
 
 .mail a {
-    color: #B34800;
+    color: #FF6600;
 }
 
 .mail a:hover {
@@ -462,7 +462,7 @@ header .mobile {
 }
 
 .phone a {
-    color: #B34800;
+    color: #FF6600;
 }
 
 .phone a:hover {
@@ -483,7 +483,7 @@ header .mobile {
     text-decoration: none;
     border-radius: 50%;
     color: white;
-    background-color: #C75000;
+    background-color: #FF6600;
     margin: 20px;
   }
 
@@ -506,7 +506,7 @@ header .mobile {
     }
 
     #contactSection .description {
-        color: #B34800;
+        color: #FF6600;
         text-align: center;
     }
 }
@@ -535,12 +535,12 @@ header .mobile {
 
 .copyright {
     flex: 1;
-    color: #B34800;
+    color: #FF6600;
 }
 
 .design {
     font-size: 0.65rem;
-    color: #B34800;
+    color: #FF6600;
     font-style: italic;
 }
 
