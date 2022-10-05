@@ -425,27 +425,27 @@ header .mobile {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    border: 3px solid #C75000;
+    border: 3px solid #B34800;
 }
 
 #contactSection .name {
     font-size: 2rem;
-    border-bottom: 2px solid #C75000;
+    border-bottom: 2px solid #B34800;
 }
 
 #contactSection .phone {
     font-weight: 300;
-    color: #C75000;
+    color: #B34800;
 }
 
 #contactSection .mail {
     font-weight: 300;
-    color: #C75000;
+    color: #B34800;
 }
 
 #contactSection .address {
     font-weight: 300;
-    color: #C75000;
+    color: #B34800;
 }
 
 #contactSection .material-symbols-outlined {
@@ -454,7 +454,7 @@ header .mobile {
 }
 
 .mail a {
-    color: #C75000;
+    color: #B34800;
 }
 
 .mail a:hover {
@@ -462,7 +462,7 @@ header .mobile {
 }
 
 .phone a {
-    color: #C75000;
+    color: #B34800;
 }
 
 .phone a:hover {
@@ -506,7 +506,7 @@ header .mobile {
     }
 
     #contactSection .description {
-        color: #C75000;
+        color: #B34800;
         text-align: center;
     }
 }
@@ -535,12 +535,12 @@ header .mobile {
 
 .copyright {
     flex: 1;
-    color: #C75000;
+    color: #B34800;
 }
 
 .design {
     font-size: 0.65rem;
-    color: #C75000;
+    color: #B34800;
     font-style: italic;
 }
 
