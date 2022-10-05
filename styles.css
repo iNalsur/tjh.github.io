@@ -112,7 +112,7 @@ header .mobile {
         border-radius: 3px;
         letter-spacing: .07em;
         text-align: center;
-        color: black;
+        color: #0F0F0F;
         padding: 10px;
         align-items: center;
         justify-content: center;
@@ -223,7 +223,7 @@ header .mobile {
     justify-content: center;
     display: inline-flex;
     font-weight: 700;
-    color: black;
+    color: #0F0F0F;
     background-color: #FF6600;
     border-radius: 3px;
     letter-spacing: .07em;
@@ -233,7 +233,7 @@ header .mobile {
 #bookTimeBox .button:hover {
     border: 1px solid #FF6600;
     color: #FF6600;
-    background-color: black;
+    background-color: #0F0F0F;
 }
 
 .backgroundImage { 
@@ -484,7 +484,7 @@ header .mobile {
     border-radius: 50%;
     background-color: #FF6600;
     margin: 20px;
-    color: black;
+    color: #0F0F0F;
   }
 
 .fa-facebook:hover {
