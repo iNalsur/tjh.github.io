@@ -430,21 +430,25 @@ header .mobile {
 
 #contactSection .name {
     font-size: 2rem;
+    font-weight: 700;
     border-bottom: 2px solid #FF6600;
 }
 
 #contactSection .phone {
     font-weight: 300;
+    font-size: 1.25rem;
     color: #FF6600;
 }
 
 #contactSection .mail {
     font-weight: 300;
+    font-size: 1.25rem;
     color: #FF6600;
 }
 
 #contactSection .address {
     font-weight: 300;
+    font-size: 1.25rem;
     color: #FF6600;
 }
 
