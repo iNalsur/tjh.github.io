@@ -457,6 +457,29 @@ header .mobile {
     font-weight: 400;
 }
 
+.icon-phone,
+.icon-envelop,
+.icon-location {
+    padding-right: 10px;
+    font-weight: 300;
+    font-size: 1.5rem;
+    color: #FF6600;
+}
+
+.contactPhone,
+.contactMail,
+.contactLocation {
+    color: #FF6600;
+    font-size: 1.25rem;
+    vertical-align: middle;
+    font-weight: 300;
+}
+
+.contactPhone:hover,
+.contactMail:hover {
+    font-weight: 400;
+}
+
 .socialMedia {
     display: flex;
     align-items: center;
