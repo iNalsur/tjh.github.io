@@ -418,45 +418,6 @@ header .mobile {
     border-bottom: 2px solid #FF6600;
 }
 
-#contactSection .phone {
-    font-weight: 300;
-    font-size: 1.25rem;
-    color: #FF6600;
-}
-
-#contactSection .mail {
-    font-weight: 300;
-    font-size: 1.25rem;
-    color: #FF6600;
-}
-
-#contactSection .address {
-    font-weight: 300;
-    font-size: 1.25rem;
-    color: #FF6600;
-}
-
-#contactSection .material-symbols-outlined {
-    vertical-align: middle;
-    padding-right: 10px;
-}
-
-.mail a {
-    color: #FF6600;
-}
-
-.mail a:hover {
-    font-weight: 400;
-}
-
-.phone a {
-    color: #FF6600;
-}
-
-.phone a:hover {
-    font-weight: 400;
-}
-
 .icon-phone,
 .icon-envelop,
 .icon-location {
@@ -484,26 +445,6 @@ header .mobile {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-    background-color: #FF6600;
-    margin: 20px;
-    color: #0F0F0F;
-  }
-
-.fa-facebook:hover {
-      background-color: #3B5998;
-}
-
-.fa-youtube:hover {
-    background-color: #bb0000;
 }
 
 .socialMedia .icon {
