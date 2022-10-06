@@ -498,6 +498,26 @@ header .mobile {
     background-color: #bb0000;
 }
 
+#contactSection .icon {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white;
+    background-color: #FF6600;
+    margin: 20px;
+}
+
+#contactSection .icon-facebook:hover {
+    background-color: #3B5998;
+}
+
+#contactSection .icon-youtube:hover {
+    background-color: #bb0000;
+}
+
 @media only screen and (max-width: 1236px) {
     #contactSection .center {
         text-align: center;
