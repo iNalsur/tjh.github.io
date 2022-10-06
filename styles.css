@@ -487,7 +487,6 @@ header .mobile {
     background-color: #FF6600;
     margin: 20px;
     color: #0F0F0F;
-    font-display: swap;
   }
 
 .fa-facebook:hover {
@@ -505,9 +504,9 @@ header .mobile {
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
-    color: white;
     background-color: #FF6600;
     margin: 20px;
+    color: #0F0F0F;
 }
 
 #contactSection .icon-facebook:hover {
