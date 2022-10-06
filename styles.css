@@ -59,6 +59,10 @@ ul .icon {
     border: none;
 }
 
+ul .icon-facebook2 {
+    font-size: 20px;
+}
+
 header p {
     color: #FF6600;
 }
@@ -156,17 +160,6 @@ header .mobile {
 }
 
 @media only screen and (max-width: 430px) {
-    /* .content .logo {
-        display: none;
-    }
-    li {
-        padding: 0 1rem;
-    }
-    .content {
-        align-items: center;
-        justify-content: center;
-    } */
-
     li .icon-user-tie {
         display: none;
     }
